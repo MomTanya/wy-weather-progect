@@ -1,0 +1,63 @@
+body {
+  font-family: sans-serif;
+}
+li {
+  list-style-type: none;
+}
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 30px 60px;
+  background: rgb(238, 243, 251);
+  border: rgb(161, 161, 252) solid;
+}
+.form {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.city {
+  font-size: 24px;
+  font-weight: 800;
+  font-style: bold;
+}
+.city-information {
+  text-align: center;
+  background: #fff;
+  border: rgb(161, 161, 252) solid;
+  border-radius: 5px;
+  padding: 23px;
+  margin-top: 46px;
+  margin-left: 40px;
+  position: static;
+}
+.card {
+  padding: 22px;
+  margin-top: 10px;
+  margin-left: 120px;
+  position: static;
+}
+.card-body {
+  margin: -20px auto;
+  padding-left: -40px;
+  padding-right: -40px;
+}
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.units {
+  position: relative;
+  top: -14px;
+   font-size: 24px;
+}
+.table {
+  text-align: center;
+  margin-top: 100px;
+}
+.icons {
+  font-size: 48px;
+  padding-top: -10px;
+}
